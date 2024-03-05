@@ -10,10 +10,11 @@
   <br/>
 </p>
 
-  ### Tools And Languages 🛠
+  ### Languages 🛠
 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
-### Github Stats
+
+### Github Status
 
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Abraham10VelGlez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
