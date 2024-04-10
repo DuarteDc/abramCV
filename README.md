@@ -11,6 +11,7 @@
 </p>
 
   ### Languages 🛠
+<img alt="¡Me registré en Google I/O 2024 y gané una insignia! ¡Únete! #DevBadges #GoogleIO" class="badge-icon" src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg?hl=es-419">
 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
 
